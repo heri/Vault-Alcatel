@@ -43,3 +43,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/telecom. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](contributor-covenant.org) code of conduct.
+
+## Who is behind this
+
+Heri is a software engineer, photographer, father and Montréaler. Building in the open — see more projects at [studiozenkai.com](https://studiozenkai.com).
